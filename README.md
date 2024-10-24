@@ -4,7 +4,7 @@ the webcam will publish data to the topic and make "subs" to subscribe the topic
 - source /opt/ros/humble/setup.bash
 - source install/setup.bash
 cd /{yourfolder}/src/
-- git clone https://github.com/Combine1234/ROS2_humble_camera.git
+- git clone https://github.com/Combine1234/joycontrolservoros2.git
 - cd ..
 - colcon build
 
