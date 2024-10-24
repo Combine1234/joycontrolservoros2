@@ -10,7 +10,10 @@ cd /{yourfolder}/src/
 
 
 then how to use
-- ros2 run cameratest pub
-- ros2 run cameratest subs
+
+this u must connect your joystick
+- ros2 run senddata publisher
+this not
+- ros2 run senddata subscriber
 
 if have something , u can ask me at "Issues" in this project or IG: i_am_you_have_father
